@@ -55,7 +55,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       InputDecoration(hintText: 'Tap here to Enter Text'),
                 )),
             Container(height: 10),
-            RaisedButton(
+            ElevatedButton(
               onPressed: () {
                 setState(() {
                   y = "The encrypted text is:";
@@ -65,7 +65,7 @@ class _MyHomePageState extends State<MyHomePage> {
               child: Text("Encrypt"),
             ),
             Container(height: 10),
-            RaisedButton(
+            ElevatedButton(
               onPressed: () {
                 setState(() {
                   y = "The decrypted text is:";

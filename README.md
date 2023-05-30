@@ -6,7 +6,7 @@ RSIS - Reverse Swap Index Shifting (Cipher Algorithm)
 
 Package to perform the RSIS Cipher Technique. This algorithm was created by Gautham Vijayaraj
 
-It's a basic implementation of the algorithm in the Dart language of the following API. To know more about this algorithm, Visit here [cryptify](https://github.com/gauthiii/cryptify-app). This app explains the working of the algorithm.
+It's a basic implementation of the algorithm in the Dart language of the following API. To know more about this algorithm, Visit here [cryptify](https://github.com/gauthiii/cryptify). This app explains the working of the algorithm.
 
 You can encrypt and decrypt texts using this algorithm.
 
@@ -14,7 +14,7 @@ You can encrypt and decrypt texts using this algorithm.
 
 ```yaml
 dependecies:
-  rsis: 0.0.3
+  rsis: 0.0.4
 ```
 
 ## Example
