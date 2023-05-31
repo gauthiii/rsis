@@ -14,7 +14,7 @@ You can encrypt and decrypt texts using this algorithm.
 
 ```yaml
 dependecies:
-  rsis: 0.0.4
+  rsis: 0.0.5
 ```
 
 ## Example
