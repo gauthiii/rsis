@@ -10,6 +10,13 @@ It's a basic implementation of the algorithm in the Dart language of the followi
 
 You can encrypt and decrypt texts using this algorithm.
 
+<p>
+<img src="https://github.com/gauthiii/rsis/assets/35861219/fba7d6f5-579d-46b6-84d9-2763303f7116" height="400">
+  <img src="https://github.com/gauthiii/rsis/assets/35861219/1128f200-8879-438f-a5dd-272f9b457e0f" height="400">
+  <img src="https://github.com/gauthiii/rsis/assets/35861219/85a1afe5-9d7e-4ebd-aafa-94890b0b761d" height="400">
+<br>
+</p>
+
 ## Installation
 
 ```yaml
