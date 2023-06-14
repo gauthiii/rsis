@@ -1,6 +1,6 @@
 name: rsis
 description: RSIS Cipher Algorithm which is created by Gautham Vijayaraj. The algorithm is used to perm cipher techniques on messages to ensure security.
-version: 0.0.5
+version: 0.0.6
 homepage: https://github.com/gauthiii/rsis
 
 environment:

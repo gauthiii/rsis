@@ -1,3 +1,7 @@
+## [0.0.6] - 14th June 2023
+
+* Updated ReadMe File
+
 ## [0.0.5] - 31st May 2023
 
 * Updated the algorithm
